@@ -1,4 +1,4 @@
-# Job Recommendation System
+# Job Recommendation System using LangChain & LLM
 
 This project is a **Job Recommendation System** that provides job listings from multiple fields, such as Software Engineering, AI, Healthcare, Marketing, and more. It allows users to filter jobs based on keywords, location, experience, and skills.
 
