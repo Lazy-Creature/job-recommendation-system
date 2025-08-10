@@ -31,7 +31,7 @@ The dataset contains job details in the following format:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Lazy-Creature/job-recommendation-system.git
+   git clone https://github.com/Lazy-Creature/job-recommendation-system-llm-chatbot.git
    cd job-recommendation-system
 ````
 
