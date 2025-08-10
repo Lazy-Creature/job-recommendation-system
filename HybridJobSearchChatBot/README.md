@@ -5,7 +5,7 @@ Follow these steps to set up and run the Hybrid Job Search Chatbot project:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Lazy-Creature/job-recommendation-system.git
+git clone https://github.com/Lazy-Creature/job-recommendation-system-llm-chatbot.git
 cd job-recommendation-system
 ````
 
